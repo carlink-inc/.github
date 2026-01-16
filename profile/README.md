@@ -4,8 +4,6 @@
 
 [![Website](https://img.shields.io/badge/carlink.pro-website-blue?style=flat)](https://carlink.pro)
 
-<br />
-
 ## About Us
 
 **Carlink LLC** is a leading provider of comprehensive auto transport management solutions.  
