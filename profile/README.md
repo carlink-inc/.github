@@ -1,12 +1,8 @@
-<div align="center">
-
 # Carlink LLC
 
 **Streamlining Auto Transport Management**
 
 [![Website](https://img.shields.io/badge/carlink.pro-website-blue?style=flat)](https://carlink.pro)
-
-</div>
 
 <br />
 
