@@ -1,4 +1,4 @@
-# Carlink LLC
+# Carlink Inc
 
 **Streamlining Auto Transport Management**
 
@@ -6,7 +6,7 @@
 
 ## About Us
 
-**Carlink LLC** is a leading provider of comprehensive auto transport management solutions.  
+**Carlink Inc** is a leading provider of comprehensive auto transport management solutions.  
 We empower logistics companies and transportation brokers with an integrated platform that streamlines operations from lead generation to final delivery.
 
 Our platform solves critical challenges in the auto transport industry by providing:
