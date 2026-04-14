@@ -1,20 +1,25 @@
 # Carlink Inc
+ 
+We build software for the auto transport industry.
 
-**Streamlining Auto Transport Management**
+## About
 
-[![Website](https://img.shields.io/badge/carlink.pro-website-blue?style=flat)](https://carlink.pro)
+Carlink is a platform used by brokers, dispatchers, and logistics teams to run their day-to-day operations - leads,        
+carriers, payments, and customer communication in one place instead of scattered across half a dozen tools.
 
-## About Us
+We're not a generic CRM with a transport skin on top. The product was built specifically around how auto transport actually works, and it keeps changing based on what our customers tell us.
 
-**Carlink Inc** is a leading provider of comprehensive auto transport management solutions.  
-We empower logistics companies and transportation brokers with an integrated platform that streamlines operations from lead generation to final delivery.
+## What's inside
 
-Our platform solves critical challenges in the auto transport industry by providing:
+- Lead tracking and automated follow-up                                                                                    
+- Carrier database with ratings and history
+- Integrations with QuickBooks, Central Dispatch, SuperDispatch, RingCentral, and Gmail                                    
+- Quoting, invoicing, and payment workflows                                                                                
+- A shared timeline of calls, texts, and emails per customer                                                               
+- Dashboards and reports for managers
 
-- **Intelligent Lead Management** – Automated distribution and tracking of transportation leads
-- **Carrier Network Management** – Comprehensive carrier database with verification and rating systems
-- **Seamless Integrations** – Connect with major industry platforms including QuickBooks, Central Dispatch, and SuperDispatch
-- **Payment Processing** – Streamlined billing and payment workflows
-- **Communication Hub** – Unified messaging across multiple channels including RingCentral and Gmail
+## Why it exists
 
-We help transportation businesses optimize their operations, reduce manual work, and scale efficiently while maintaining the highest standards of service quality.
+Most transport companies we've met were running their business across a notebook, two spreadsheets, a generic CRM, and four browser tabs. We thought there should be one tool that just handled it. So we built one.
+                                                                                                                           
+More at [carlink.pro](https://carlink.pro)
